@@ -6,6 +6,7 @@ The intention of this project is to predict the winners of the FIFA World Cup ba
 If you want to read about the first prototype of the program and how it was improved after, skip to the end.
 
 This is a program which has two parts. 
+
 1. 
 The country.csv includes a list of all player rankings for each respective country. Each FIFA ranking has a 
 weight that is used to calculate an overall FIFA ranking for each country. This will be used to give a list of 
