@@ -25,5 +25,5 @@ likely each country was of winning.
 
 My answer was to incorporate part II. Using this part allowed me to give an analysis of how likely each 
 country was to win. After getting a likely percentage of each team's chance of winning, I compared with sports
-probablitiles and was accurate to 3%. I then added a random number generator to give different likely scenarios
-of the World Cup Winner.
+probablitiles and was accurate to the teams they favored to win. I then added a random number generator to give 
+different likely scenariosof the World Cup Winner.
